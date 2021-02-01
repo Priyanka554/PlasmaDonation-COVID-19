@@ -1,0 +1,25 @@
+body{
+	background-color: #F4F6F6 !important;
+}
+.container{
+    margin: 20px auto;
+    width:50% !important;
+    border: 1px black medium !important;
+    background-color: white;
+}
+
+h3{
+	margin: 20px auto  0 340px !important;
+	width:50% !important;
+	text-align: center;
+	background-color: #AB90AB;
+	color: white;
+	height: 35px;
+	background-size: 20px !important;
+	
+	
+}
+label {
+	font-weight: bold;
+}
+

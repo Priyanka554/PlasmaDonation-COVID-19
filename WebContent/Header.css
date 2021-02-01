@@ -1,0 +1,28 @@
+.row {
+  display: flex;
+  height: 110px;
+}
+
+
+.logo {
+  flex: 20%;
+  padding-left: 10px
+ 
+}
+
+.navbar{
+	width: 85%;
+	background-color: #CF202E;
+	font-weight: bold;
+	color: white !important;
+	text-decoration: none;
+	padding-top: 20px;
+	height: 110px;
+	border: 1px black solid;
+}
+
+.navbar-right{
+	float: right;
+	padding: 20px;
+	margin-right: 20px;
+}
